@@ -6,7 +6,7 @@ management:
     enabled: false    
 
 promotion: action
-  name: jis
+
 
 spring:
   application:
